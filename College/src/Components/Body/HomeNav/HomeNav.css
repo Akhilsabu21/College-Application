@@ -1,0 +1,97 @@
+/* .student-login{
+    border: 1px solid #c3623b ;
+    padding: 6px 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #c3623b ;
+    transition: .8s;
+    font-size: medium;
+    font-weight: bold;
+} */
+/* .student-login:hover {
+    background-color: #c3623b ;
+    color: #fff !important;
+    border: 0;
+} */
+/* #navbar{
+    margin-bottom: 8px;
+} */
+.logout-btn{
+    padding: 5px 10px;
+    background-color: transparent;
+    border: 2px dotted;
+    transition: .7s ease-out;
+}
+.logout-btn:hover{
+    border: 0;
+    background-color: #333;
+    color: #fff;
+}
+.bg-image-full {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.cap {
+    margin-bottom: 4em;
+}
+
+.cap1 {
+    margin-bottom: 9em;
+}
+
+.fafa-empire {
+    font-size: 60pt !important;
+
+}
+
+#logga {
+    height: 1.3em;
+    font-size: 90pt;
+}
+
+.btn-light {
+    margin-bottom: 3em;
+    margin-top: -2em;
+    background: #609895 !important;
+    border: none !important;
+    color: white !important;
+
+}
+
+a.navbar-brand {
+    color: black;
+}
+
+a.nav-link {
+    color: black;
+}
+
+a:hover.navbar-brand {
+    color: #347474 !important;
+}
+
+a:hover.nav-link {
+    color: #FF8A5C !important;
+}
+
+  .wrapper a{
+    display: block;
+    font-size: 14px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #333;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+    padding: 10px;
+    letter-spacing: 2px;
+    transition: all .25s;
+  }
+  
+  .wrapper a:hover{
+    letter-spacing: 15px;
+  }
+  

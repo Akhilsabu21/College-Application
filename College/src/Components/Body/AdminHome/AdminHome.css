@@ -1,0 +1,42 @@
+.home-body{
+    width: 100%;
+    height: auto;
+}
+.register-btn{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 35px 0;
+    gap: 15px;
+}
+.register-btn a{
+    border: 1px solid #22223b;
+    letter-spacing: 1px;
+    padding: 3px 7px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #22223b;
+    transition: .8s;
+}
+.register-btn a:hover{
+    background-color: #22223b;
+    border: 0;
+    color: #fff;
+}
+.heading{
+    text-align: center;
+    color: #22223b;
+    margin-top: 25px;
+}
+
+.cards-body{
+    display:  flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 50px;
+}
